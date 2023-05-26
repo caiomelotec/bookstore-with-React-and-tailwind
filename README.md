@@ -21,5 +21,5 @@ In the project directory, you can run:
 ##The site also has a search function where you can search for the name of the book or the author. The search doesn't require exact accuracy in terms of the name
 ![2023-05-26 (5)](https://github.com/caiomelotec/bookstore-with-React-and-tailwind/assets/74388750/3f96b966-e5af-4e3b-a267-fe54dc147887)
 ![2023-05-26 (7)](https://github.com/caiomelotec/bookstore-with-React-and-tailwind/assets/74388750/02442026-5b9d-4899-94d2-224ac5adc627)
-##Later, I will update the site with more functions, and of course, this site will be 100% responsive.
+##Later, I will update the site with more functions, and of course, this site is be 100% responsive.
 
