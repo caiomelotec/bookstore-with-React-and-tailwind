@@ -18,3 +18,8 @@ In the project directory, you can run:
 ![01](https://github.com/caiomelotec/bookstore-with-React-and-tailwind/assets/74388750/14585c91-649a-4405-995b-4e19c70aefce)
 ![02 (2)](https://github.com/caiomelotec/bookstore-with-React-and-tailwind/assets/74388750/4705d593-6a02-493c-a4cb-254a4e47c2cf)
 
+##The site also has a search function where you can search for the name of the book or the author. The search doesn't require exact accuracy in terms of the name
+![2023-05-26 (5)](https://github.com/caiomelotec/bookstore-with-React-and-tailwind/assets/74388750/3f96b966-e5af-4e3b-a267-fe54dc147887)
+![2023-05-26 (7)](https://github.com/caiomelotec/bookstore-with-React-and-tailwind/assets/74388750/02442026-5b9d-4899-94d2-224ac5adc627)
+##Later, I will update the site with more functions, and of course, this site will be 100% responsive.
+
